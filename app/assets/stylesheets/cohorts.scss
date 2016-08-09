@@ -20,6 +20,10 @@
     @min-width: 770px {
       display: inline-block;
     }
+  }
+
+  .h1, .h2, .h3, .h4, .h5, .h6{
+    font-family: 'Oswald', sans-serif;
   }  
 }
 .deliverable { 
@@ -35,6 +39,12 @@
   .student a {
     font-size: 40px;
   }
+  p, .p{
+  font-style: Georgia, serif;
+  }
+  .h1, .h2, .h3, .h4, .h5, .h6{
+    font-family: 'Oswald', sans-serif;
+  }  
   .due {
     color: red;
     font-size: 16px;
