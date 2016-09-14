@@ -1,4 +1,5 @@
 .env
+.sass-cache
 
 # Created by https://www.gitignore.io/api/linux,osx,rails
 
